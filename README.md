@@ -7,6 +7,8 @@
 - Machine Learning
 - Deep Learning 
 - Data Science
+- NodeJS/Express
+- Javascript/React
 
 ### Connect with me:
 
